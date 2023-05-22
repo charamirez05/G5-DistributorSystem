@@ -1,7 +1,7 @@
 export default function dashboard(){
     return( <div>
         
-            <h1> SHOUT OUT NINYO TANAN  </h1>
+            <h1> Kemriel Gwapo!  </h1>
         
     </div>
 )
