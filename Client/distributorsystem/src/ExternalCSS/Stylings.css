@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+/*this styling is for the name of the table*/
+.TableNameLabel{
+    text-align: left;
+    color: white;
+    font-size: 18px;
+    font-weight:normal;
+    font-family: 'Inter', sans-serif;
+}
+
+/*this styling is for the name of the screen*/
+.MainLabels{
+    text-align: left;
+    color: white;
+    margin-left: 50px;
+    font-size: 35px;
+    top: 50px;
+    position: absolute;
+    font-family: 'Inter', sans-serif;
+}
+
+
+/*this styling is for the texfield labels*/
+.TextFieldLabels{
+    position: relative;
+    left: 10px;
+    text-align: left;
+    color: white;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight:normal;
+    font-family: 'Inter', sans-serif;
+}
+
