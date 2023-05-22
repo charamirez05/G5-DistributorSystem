@@ -1,7 +1,8 @@
 export default function dashboard(){
     return( <div>
         
-            <h1> SHOUT OUT NINYO TANAN  </h1>
+            <h1> ara 
+                oh yow </h1>
         
     </div>
 )
