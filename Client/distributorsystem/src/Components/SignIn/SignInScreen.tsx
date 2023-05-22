@@ -4,7 +4,7 @@ export default function SignInScreen(){
     return( <div>
             <NavBar/>
             <h1>
-                HI FO
+                MIC TEST
             </h1>
         </div>
     )
